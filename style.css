@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  .container {
+    max-width: 300px;
+    margin: 0 auto;
+  }
+  
+  h1 {
+    font-size: 24px;
+    color: #333;
+  }
+  
+  #speed {
+    font-size: 20px;
+    font-weight: bold;
+    color: #4CAF50;
+  }
+  

@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "Network Speed Extension",
+    "version": "1.0",
+    "description": "Shows system network speed.",
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": "icon.jpeg"
+    },
+    "permissions": ["activeTab"]
+  }
+  
